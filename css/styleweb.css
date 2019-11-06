@@ -7,7 +7,7 @@ body {
 
 }
 header {
-    background-color: rgb(36, 36, 36);
+    background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
     color: white ;
     padding: 30px; 
     text-align: center;
@@ -23,8 +23,8 @@ header .mobile {
     display: none;
 }
 section.features {
-    background-image: url("../img/papers.co-vd04-globe-in-line-art-triangle-dark-pattern-25-wallpaper.jpg");
-    background-size: 1920px 1080px;
+    
+    
     color:rgb(109, 107, 107);
     padding: 20px;
     display: grid;
@@ -72,8 +72,8 @@ li {
 }
 
 footer{
-    background: rgb(36, 36, 36);
-    padding: 30px;
+    background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+    padding: 20px;
     text-align: center;
     color: rgb(194, 194, 194);
 }

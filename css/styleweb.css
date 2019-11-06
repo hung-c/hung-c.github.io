@@ -1,5 +1,5 @@
 body {
-    background-image: url("img/Website-Background-Web.jpg");
+    background-image: url("../img/Website-Background-Web.jpg");
     background-size: 1920px 1080px;
     font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
     color: white;
@@ -23,7 +23,7 @@ header .mobile {
     display: none;
 }
 section.features {
-    background-image: url("img/Website-Background-Web.jpg");
+    background-image: url("../img/Website-Background-Web.jpg");
     background-size: 1920px 1080px;
     color:rgb(109, 107, 107);
     padding: 20px;

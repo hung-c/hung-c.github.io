@@ -1,5 +1,5 @@
 body {
-    background-image: url("../img/Website-Background-Web.jpg");
+    background-image: url("../img/papers.co-vd04-globe-in-line-art-triangle-dark-pattern-25-wallpaper.jpg");
     background-size: 1920px 1080px;
     font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
     color: white;
@@ -7,7 +7,7 @@ body {
 
 }
 header {
-    background-color:rgb(36, 36, 36);
+    background-color: rgb(36, 36, 36);
     color: white ;
     padding: 30px; 
     text-align: center;
@@ -23,7 +23,7 @@ header .mobile {
     display: none;
 }
 section.features {
-    background-image: url("../img/Website-Background-Web.jpg");
+    background-image: url("../img/papers.co-vd04-globe-in-line-art-triangle-dark-pattern-25-wallpaper.jpg");
     background-size: 1920px 1080px;
     color:rgb(109, 107, 107);
     padding: 20px;
@@ -33,10 +33,11 @@ section.features {
 
 }
 section.features h1 {
-    color:rgb(73, 72, 72);
+    color:rgb(202, 199, 199);
 }
 section.features p {
     margin: 10px;
+    color: rgb(202, 199, 199)
 }
 section.features button{
     margin: auto;
@@ -53,7 +54,7 @@ section.features figure {
     width: 300;
 }
 .features figure img {
-    border: 1px solid white;
+    border: 1px solid gray;
     border-radius: 2%;
     box-shadow:gray 0 0 10px;
     

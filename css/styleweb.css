@@ -1,0 +1,99 @@
+body {
+    background-image: url("../img/papers.co-vd04-globe-in-line-art-triangle-dark-pattern-25-wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-size: 1920px 1080px;
+    background-position: center; 
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: rgb(36, 36, 36);
+    margin: 0;
+    background-color: rgb(27, 27, 27);
+
+}
+header {
+    background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+    color: white ;
+    padding: 30px; 
+    text-align: center;
+}
+
+header a{
+    color: rgb(194, 194, 194);
+    text-decoration: none;
+    text-transform: uppercase;
+    margin: 40px;
+}
+header .mobile {
+    display: none;
+}
+section.features {
+    color:rgb(109, 107, 107);
+    padding: 20px;
+    display: grid;
+    flex-direction: row;
+    text-align: center;
+
+}
+section.features h1 {
+    color:rgb(202, 199, 199);
+}
+section.features p {
+    margin: 10px;
+    color: rgb(202, 199, 199)
+}
+section.features button{
+    margin: auto;
+    border-radius: 5%;
+    background-color:rgb(36, 36, 36);
+    color: rgb(160, 160, 160);
+    font-size: medium;
+    height: 60px;
+    width: 150px;
+}
+section.features figure {
+    margin:auto;
+    text-align: center;
+    width: 300;
+}
+.features figure img {
+    border: 1px solid gray;
+    border-radius: 2%;
+    box-shadow:gray 0 0 10px;
+    
+}                 
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    
+}
+li {
+    display: inline;
+    margin: 20px ;
+}
+
+footer{
+    background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+    padding: 20px;
+    text-align: center;
+    color: rgb(194, 194, 194);
+}
+@media screen and (max-width: 925px) {
+  
+    header {
+    
+        padding: auto;
+    }
+    header a{
+        margin: auto;
+    }
+   
+    header .mobile {
+        display: inline-block;
+    }
+    header .desktop {
+        display: none;
+    }
+
+    
+}

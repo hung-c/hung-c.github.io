@@ -47,7 +47,7 @@ p {
 /*======================================Narvigation========================================*/
 .navbar-default {
     background-color: transparent;
-    border-color: #444;
+    border-color: transparent;
     z-index: 110;
     transition: all 1s;
     -webkit-transition: all 1s;

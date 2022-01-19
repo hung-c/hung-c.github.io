@@ -94,6 +94,11 @@ footer{
     header .desktop {
         display: none;
     }
+    .header-btns {
+        margin-top: 30px;
+        margin-bottom: 50px;
+        text-align: center;
+    }
 
     
 }

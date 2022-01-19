@@ -160,7 +160,7 @@ p {
 .btn-tour:active,
 .btn-tour:visited
 {
-    color: #A9ADB0;
+    color: #ffffff;
     margin-left: 20px;
     text-transform: uppercase;
     font-size: 19px;
@@ -553,7 +553,8 @@ p {
 .social-icons ul li {
     list-style: none;
     display: inline;
-    padding-left:10px ;
+    padding-left:10px;
+   
 }
 .social-icons ul li a{
     text-decoration: none;
@@ -565,6 +566,7 @@ p {
     height: 60px;
     line-height: 49px;
     color: #9d9d9d;
+    margin-top: 10px;
 }
 .social-icons ul li a:hover {
     background-color: #129CF3;
@@ -612,4 +614,12 @@ p {
 .scroll-top a i {
     font-size: 25px;
     color: white;
+}
+
+@media screen and (max-width: 925px) {
+    .header-btns {
+        margin-top: 30px;
+        margin-bottom: 50px;
+        text-align: center;
+    }
 }

@@ -57,6 +57,7 @@ p {
 .navbar-default .navbar-nav {
     padding-right: 30px;
 }
+
 .navbar-default .navbar-nav > li > a {
     color: #b5b5b5;
     font-family: "Raleway", sans-serif;
@@ -65,7 +66,36 @@ p {
     -moz-transition: all 1s;
     -o-transition: all 1s;
 }
+.dropdown
+{
+    padding: 15px;
+}
+
+.dropdown-menu>li>a
+{
+    color: #b5b5b5;
+    font-family: "Raleway", sans-serif;
+}
+
+.navbar-default .navbar-nav .open .dropdown-menu>li>a 
+{
+    color: #b5b5b5;
+    font-family: "Raleway", sans-serif;
+}
+
+.navbar-default .navbar-nav > li > div > a {
+    color: #b5b5b5;
+    font-family: "Raleway", sans-serif;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -o-transition: all 1s;
+}
 .navbar-default .navbar-nav > li > a:hover {
+    color: #129CF3;
+
+}
+.navbar-default .navbar-nav > li > div > a:hover {
     color: #129CF3;
 
 }
@@ -91,6 +121,8 @@ p {
     color: #129CF3;
 
 }
+
+
 /*======================================Header========================================*/
 .header {
     background-image: url("../images/hdd.jpg");

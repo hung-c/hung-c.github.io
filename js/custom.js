@@ -117,9 +117,10 @@ $(document).ready(function(){
 
                var bb=$(this).attr("id"); //ABOUT, CONTACT, DOWNLOAD
                var hie=$(this).outerHeight();
-               var grttop=$(this).offset().top - 60;
+               var grttop=$(this).offset().top - 150;
+
                
-               if($(window).scrollTop() > grttop && $(window).scrollTop()< grttop + hie){
+               if($(window).scrollTop() > grttop &&  $(window).scrollTop()< grttop + hie){
                    
                 $(".navbar-nav li a[href='#" + bb + "']").parent().addClass("active"); 
                    

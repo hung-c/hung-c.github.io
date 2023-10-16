@@ -117,7 +117,7 @@ $(document).ready(function(){
 
                var bb=$(this).attr("id"); //ABOUT, CONTACT, DOWNLOAD
                var hie=$(this).outerHeight();
-               var grttop=$(this).offset().top - 500;
+               var grttop=$(this).offset().top - 550;
 
                
                if($(window).scrollTop() > grttop &&  $(window).scrollTop()< grttop + hie){

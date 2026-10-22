@@ -1,0 +1,40 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/0umf92h1sb77c.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+5:"/_next/static/chunks/3hnhd3spp6u27.js"
+6:"/_next/static/chunks/37mxx77994rlv.js"
+7:I[36575,["$5","$6"],"TechGrid"]
+8:I[44636,["$5","$6"],"Providers"]
+9:I[33654,["$5","$6"],"BootScreen"]
+a:I[2971,["$5","$6"],"Header"]
+b:I[22016,["$5","$6"],""]
+19:"ViewportBoundary"
+1a:I[97367,["$2"],"$19"]
+1b:"MetadataBoundary"
+1c:I[97367,["$2"],"$1b"]
+1d:"$Sreact.suspense"
+1e:I[27201,["$2"],"IconMark"]
+:HL["/_next/static/chunks/0oc875esy0wq1.css","style"]
+d:X
+10:X
+10:C
+11:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"site-shell min-h-full","children":[["$","$L7",null,{}],["$","$L8",null,{"children":[["$","$L9",null,{}],["$","$La",null,{"settings":"$0:t:t:d:r:props:children:1:props:children:props:children:props:notFound:0:props:children:1:props:children:1:props:settings"}],["$","main",null,{"className":"flex-1","children":["$","div",null,{"className":"mx-auto flex min-h-[60vh] max-w-[1800px] flex-col justify-center px-2 md:px-3","children":[["$","p",null,{"className":"text-[11px] tracking-[0.16em] text-green uppercase","children":"Error 404"}],["$","h1",null,{"className":"display mt-4 text-4xl","children":"Node not found"}],["$","p",null,{"className":"mt-4 max-w-md text-sm text-[var(--text)]","children":"This path is not in the archive. Return to the profile or the blog index."}],["$","div",null,{"className":"mt-8 flex gap-4 text-[11px] tracking-[0.14em] uppercase","children":[["$","$Lb",null,{"href":"/","className":"bg-green px-4 py-2 text-black","children":"Home"}],["$","$Lb",null,{"href":"/blog/","className":"border border-white/15 px-4 py-2","children":"Blog"}]]}]]}]}],["$","footer",null,{"className":"border-t border-white/15","children":["$","div",null,{"className":"site-frame flex flex-col gap-3 px-2 py-4 text-[11px] tracking-[0.12em] text-[var(--text)] uppercase sm:flex-row sm:items-center sm:justify-between md:px-3","children":["$L12","$L13","$L14"]}]}]]}]]}],["$L15","$L16"],"$L17"]}],"p":"$@18","v":null,"s":"$d"}}]]
+e:[["children",{"s":"/_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@f","v":"$10","s":"$d"},"c":"$Q11"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0oc875esy0wq1.css","precedence":"next"}]],["$","html",null,{"lang":"en","className":"tGMMGq_variable Zo4tiq_variable h-full antialiased","suppressHydrationWarning":true,"children":["$","body",null,{"id":"top","className":"min-h-full","suppressHydrationWarning":true,"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[["$","div",null,{"className":"site-shell min-h-full","children":[["$","$L7",null,{}],["$","$L8",null,{"children":[["$","$L9",null,{}],["$","$La",null,{"settings":{"name":"Hung Cao","role":"Software Developer, Team Leader, Technical Advisor","headline":"Software Engineer · Team Leader · Technical Advisor","status":"Still on the Market","profileId":"HC-2026-001","location":"Forest Lake, MN","timezone":"America/Chicago","portraitUrl":"/media/portrait/portrait.png","portraitAlt":"Portrait of Hung Cao","yearsExperience":"4+ Years","focus":"Product Engineering","responseTime":"< 24h","cvUrl":"https://hung-c.github.io/resume.html","github":"https://github.com/hung-c","linkedin":"https://www.linkedin.com/in/hung-cao","seoTitle":"Hung Cao — Software Developer, Software Engineer, Team Leader, Technical Advisor","seoDescription":"Software engineer, team leader, and technical advisor. Desktop 3D systems, web backends, and products from science-fair hardware to production C# / Python."}}],["$","main",null,{"className":"flex-1","children":["$","div",null,{"className":"mx-auto flex min-h-[60vh] max-w-[1800px] flex-col justify-center px-2 md:px-3","children":[["$","p",null,{"className":"text-[11px] tracking-[0.16em] text-green uppercase","children":"Error 404"}],["$","h1",null,{"className":"display mt-4 text-4xl","children":"Node not found"}],["$","p",null,{"className":"mt-4 max-w-md text-sm text-[var(--text)]","children":"This path is not in the archive. Return to the profile or the blog index."}],["$","div",null,{"className":"mt-8 flex gap-4 text-[11px] tracking-[0.14em] uppercase","children":[["$","$Lb",null,{"href":"/","className":"bg-green px-4 py-2 text-black","children":"Home"}],["$","$Lb",null,{"href":"/blog/","className":"border border-white/15 px-4 py-2","children":"Blog"}]]}]]}]}],["$","footer",null,{"className":"border-t border-white/15","children":["$","div",null,{"className":"site-frame flex flex-col gap-3 px-2 py-4 text-[11px] tracking-[0.12em] text-[var(--text)] uppercase sm:flex-row sm:items-center sm:justify-between md:px-3","children":[["$","p",null,{"children":["© ",2026," ","Hung Cao"," · Stackbit OS v1.0.26"]}],["$","p",null,{"className":"flex gap-4","children":[["$","span",null,{"children":"Firewall active"}],["$","span",null,{"children":"Secure channel"}],["$","span",null,{"className":"text-green","children":"Node online"}]]}],["$","a",null,{"href":"#top","className":"hover:text-white","children":"Back to top"}]]}]}]]}]]}],[]]}]}]}]]}],"p":"$@c","v":null,"s":"$d"},"c":"$Qe"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L1a",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1c",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Hung Cao — Software Developer, Software Engineer, Team Leader, Technical Advisor"}],["$","meta","1",{"name":"description","content":"Software engineer, team leader, and technical advisor. Desktop 3D systems, web backends, and products from science-fair hardware to production C# / Python."}],["$","link","2",{"rel":"icon","href":"/icon?3e6c59996e1adcbe","type":"image/png","sizes":"32x32"}],["$","$L1e","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1f","v":null,"s":"$d"}},"a":"$@20","u":"$@21","b":"HdY8kkCXIB3gPBcm0elI4"}
+22:I[97367,["$2"],"OutletBoundary"]
+12:["$","p",null,{"children":["© ",2026," ","Hung Cao"," · Stackbit OS v1.0.26"]}]
+13:["$","p",null,{"className":"flex gap-4","children":[["$","span",null,{"children":"Firewall active"}],["$","span",null,{"children":"Secure channel"}],["$","span",null,{"className":"text-green","children":"Node online"}]]}]
+14:["$","a",null,{"href":"#top","className":"hover:text-white","children":"Back to top"}]
+15:["$","script","script-0",{"src":"/_next/static/chunks/3hnhd3spp6u27.js","async":true}]
+16:["$","script","script-1",{"src":"/_next/static/chunks/37mxx77994rlv.js","async":true}]
+17:["$","$L22",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@23"}]}]
+d:300
+23:null
+21:true
+d:C
+20:0
+f:"$undefined"
+c:"$undefined"
+1f:"$undefined"
+18:"$undefined"
